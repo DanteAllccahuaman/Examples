@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.padre{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://wallpaperaccess.com/full/443573.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hijo{
+    width: 400px;
+    height: 550px;
+    background-color: orange;
+    border-radius: 20px;
+    opacity: 0.8;
+}
